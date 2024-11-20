@@ -6,7 +6,7 @@ pip install opencv-python
 
 pip install opencv-python-headless
 
-pip install pyobjc *Requirement for MAC before use playsound*
+pip install pyobjc (Requirement for MAC before use playsound)
 
 pip install playsound
 
